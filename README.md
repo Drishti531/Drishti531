@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Drishti
 
-<!--
-**Drishti531/Drishti531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate | MCA Aspirant  
+🐍 Currently learning Python & Artificial Intelligence  
+💻 Interested in Software Development and AI  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Python (Learning)
+- Git
+- GitHub
+
+Building my AI career and preparing for international opportunities. 🌍
+
+## 📫 Connect with Me
+
+- LinkedIn: www.linkedin.com/in/drishti-tulshyan
